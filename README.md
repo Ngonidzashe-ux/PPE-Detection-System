@@ -26,6 +26,7 @@ For real-time object detection and classification in video streams, follow the i
 
 ## Screenshots
 Explore the screenshots folder to view snapshots illustrating the PPE Detection System's capabilities.
+<img width="1182" alt="Screenshot 2024-01-11 at 07 14 25" src="https://github.com/Ngonidzashe-ux/PPEDetectionSystem/assets/80784025/c6cf9518-d90b-43d6-9a8d-982d4eb1d7cd">
 
 ## License
 This project is licensed under the MIT License.
